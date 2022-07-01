@@ -1,0 +1,11 @@
+//key bindings, all should be lowercase letters
+#define MOVL 'a'
+#define MOVR 'd'
+#define ROTA 'w'
+#define DROP 's'
+#define RSET 'l'
+#define SNXT 'z'
+#define STXT 'c'
+#define EXT 'k'
+#define TPLS 't'
+#define HARD 'h'

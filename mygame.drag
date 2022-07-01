@@ -1,0 +1,7 @@
+#define DROPINTERVAL (DELAY/1000) * ((300 - level*13)/5)
+
+int nexttetrimino(){
+  int x = 5;
+  x += 4;
+  return rand() % 2;
+}
